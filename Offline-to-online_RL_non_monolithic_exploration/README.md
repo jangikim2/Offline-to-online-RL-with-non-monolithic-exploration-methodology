@@ -4,7 +4,6 @@
 The training environment (PyTorch and dependencies) can be installed as follows:
 
 ```
-git clone https://github.com/Haichao-Zhang/PEX.git
 cd PEX
 
 python3 -m venv .venv_pex
